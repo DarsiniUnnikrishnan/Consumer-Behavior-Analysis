@@ -1,7 +1,7 @@
 # 🛒 Consumer Behavior Analysis in E-commerce
 
 ## 📌 Overview
-This project analyzes consumer behavior for Hunter's e-grocery, a global e-commerce brand. Using **Apriori (R)** and **K-means clustering (Python)**, the study uncovers purchasing patterns and segments customers to enhance customer retention and satisfaction. The findings provide actionable insights to optimize marketing strategies, supply chain management, and promotional campaigns.
+This project analyzes consumer behavior for Hunter's e-grocery, a global e-commerce brand. Using **Apriori (R)** and **K-means clustering (Python)**, the study uncovers purchasing patterns and segments customers to enhance customer retention and satisfaction. The findings provide actionable insights to optimize marketing strategies, supply chain management, and promotional campaigns.The analysis, conducted as part of a university project at Cape Breton University,
 
 ---
 
